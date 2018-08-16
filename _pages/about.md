@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "André Nascimento"
+title: "Péricles Miranda"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-BSc in Computer Enginnering (UPE, Brazil), MSc and PhD in Machine Learning (UFPE, Brazil), currently working as adjunct professor at Universidade Federal Rural de Pernambuco ([UFRPE](http://www.ufrpe.br)), Departamento de Computação ([DC](http://dc.ufrpe.br)). Main areas of expertise: kernel methods, text mining and computational biology.
+BSc in Computer Enginnering (UPE, Brazil), MSc and PhD in Artificial Intelligence (UFPE, Brazil), currently working as adjunct professor at Universidade Federal Rural de Pernambuco ([UFRPE](http://www.ufrpe.br)), Departamento de Computação ([DC](http://dc.ufrpe.br)). Main areas of expertise: Machine Learning and Continuous and Combinatorial optimization.
 
 Research Interests
 ======
-- Machine Learning 
-- Kernel Methods
-- Meta-learning
-- Computational Biology
-- Systems Biology
-- Recommender Systems
+- Learning Algorithms
+- Meta-Learning
+- Continuous and Combinatorial optimization
 
 
