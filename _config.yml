@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andre Nascimento"
+title                    : "Péricles Miranda"
 title_separator          : "-"
-name                     : &name "Andre Nascimento"
+name                     : &name "Péricles Miranda"
 description              : &description "personal description"
-url                      : https://andrecamara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://periclesmiranda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "andrecamara/andrecamara.github.io"
+repository               : "periclesmiranda/periclesmiranda.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Nascimento"
-  avatar           : "profile_pic.jpeg"
+  name             : "Péricles Miranda"
+  avatar           : "periclesmiranda.jpeg"
   bio              : "Professor"
   location         : "UFRPE"
   employer         : "Departamento de Computação"
   location_link    : "http://www.ufrpe.br"
   employer_link    : "http://dc.ufrpe.br"
   googlescholar    : 
-  email            :
+  email            : "pericles.miranda@ufrpe.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andrecamara"
+  github           : "periclesmiranda"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "andrecamara1"
-  orcid            : "http://orcid.org/0000-0002-9333-3212"
+  linkedin         : "péricles-miranda-a5645414"
+  orcid            : #"http://orcid.org/0000-0002-9333-3212"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
